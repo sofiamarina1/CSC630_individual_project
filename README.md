@@ -7,6 +7,9 @@
 
 # Data Sources
 Population: https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html
+
 Cattle: https://beef2live.com/story-cattle-inventory-vs-human-population-state-0-114255
+
 GDP: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_GDP
+
 Geographic: https://en.wikipedia.org/wiki/Geographic_center_of_the_United_States
